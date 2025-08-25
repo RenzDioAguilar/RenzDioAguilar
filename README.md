@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Renzo 👋  
 
-<!--
-**RenzDioAguilar/RenzDioAguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Aspiring Front-End Developer | React & Tailwind | Always learning  
+🎓 Fresh Graduate in Software Development  
+🌱 Currently improving my skills in JavaScript, React, and TailwindCSS  
+🚀 Goal: To grow into a full-stack developer and contribute to impactful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React, TailwindCSS  
+- **Tools:** Git, GitHub, VS Code, Vite  
+
+---
+
+## 📂 Projects  
+*(More coming soon!)*  
+- 🌐 **Portfolio Website** – My personal developer portfolio  
+- ✅ **To-Do App** – A simple task manager built with React  
+- 🎨 **UI Components** – Reusable components styled with Tailwind  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/renzo-tumamao-023237348)  
+- 📧 **Tumamaorenzo074@gmail.com**  
