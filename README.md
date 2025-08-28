@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renzo</h1>
-<h3 align="center">Aspiring Front-End Developer from the Philippines</h3>
+<h3 align="center">Aspiring Full-stack Developer from the Philippines</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=renzdioaguilar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
