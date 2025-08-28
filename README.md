@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Fresh Graduate in **Software Development**  
+- 🎓 Fresh Graduate in **Web and Mobile Developement**  
 - 🌱 Currently improving my skills in **JavaScript, React, and TailwindCSS**  
 - 🔭 Working on: **Car Rental System**  
 - 🚀 Goal: To grow into a **Full-Stack Developer** and contribute to impactful projects  
